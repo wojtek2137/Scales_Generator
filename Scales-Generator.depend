@@ -1,0 +1,319 @@
+# depslib dependency file v1.0
+1590748672 source:c:\users\wojciech\documents\c++\scales-generator\tgama_dur.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TGama_dur.h"
+
+1590748861 c:\users\wojciech\documents\c++\scales-generator\tgama_dur.h
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TTonacja.h"
+
+1590748905 c:\users\wojciech\documents\c++\scales-generator\ttonacja.h
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+
+1590700217 source:c:\users\wojciech\documents\c++\scales-generator\talterowana.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TAlterowana.h"
+
+1590700162 c:\users\wojciech\documents\c++\scales-generator\talterowana.h
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TGama_dur.h"
+
+1590700288 source:c:\users\wojciech\documents\c++\scales-generator\tjewish.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TJewish.h"
+
+1590700165 c:\users\wojciech\documents\c++\scales-generator\tjewish.h
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TGama_dur.h"
+
+1590757697 source:c:\users\wojciech\documents\c++\scales-generator\tpentatonica_dur.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TPentatonica_dur.h"
+
+1590700156 c:\users\wojciech\documents\c++\scales-generator\tpentatonica_dur.h
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TGama_dur.h"
+
+1590702747 source:c:\users\wojciech\documents\c++\scales-generator\main.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TTonacja.h"
+	"TGama_dur.h"
+	"TGama_moll.h"
+	"TPentatonica_dur.h"
+	"TPentatonica_moll.h"
+	"TBluesowa.h"
+	"TJewish.h"
+	"TZmniejszona.h"
+	"TAlterowana.h"
+
+1590758022 c:\users\wojciech\documents\c++\scales-generator\tgama_moll.h
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TGama_dur.h"
+
+1590700756 c:\users\wojciech\documents\c++\scales-generator\tpentatonica_moll.h
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TGama_moll.h"
+
+1590700776 c:\users\wojciech\documents\c++\scales-generator\tbluesowa.h
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TGama_moll.h"
+
+1590700171 c:\users\wojciech\documents\c++\scales-generator\tzmniejszona.h
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TGama_dur.h"
+
+1590758318 source:c:\users\wojciech\documents\c++\scales-generator\tbluesowa.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TBluesowa.h"
+
+1590757728 source:c:\users\wojciech\documents\c++\scales-generator\tgama_moll.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TGama_moll.h"
+
+1590757942 source:c:\users\wojciech\documents\c++\scales-generator\tpentatonica_moll.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TPentatonica_moll.h"
+
+1590698910 source:c:\users\wojciech\documents\c++\scales-generator\ttonacja.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TTonacja.h"
+
+1590700420 source:c:\users\wojciech\documents\c++\scales-generator\tzmniejszona.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TZmniejszona.h"
+
+1590700217 source:c:\users\wojciech\documents\c++\scales-generator-testy\talterowana.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TAlterowana.h"
+
+1590700162 c:\users\wojciech\documents\c++\scales-generator-testy\talterowana.h
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TGama_dur.h"
+
+1590748861 c:\users\wojciech\documents\c++\scales-generator-testy\tgama_dur.h
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TTonacja.h"
+
+1590748905 c:\users\wojciech\documents\c++\scales-generator-testy\ttonacja.h
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+
+1590758318 source:c:\users\wojciech\documents\c++\scales-generator-testy\tbluesowa.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TBluesowa.h"
+
+1590700776 c:\users\wojciech\documents\c++\scales-generator-testy\tbluesowa.h
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TGama_moll.h"
+
+1590758022 c:\users\wojciech\documents\c++\scales-generator-testy\tgama_moll.h
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TGama_dur.h"
+
+1590757728 source:c:\users\wojciech\documents\c++\scales-generator-testy\tgama_moll.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TGama_moll.h"
+
+1590700288 source:c:\users\wojciech\documents\c++\scales-generator-testy\tjewish.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TJewish.h"
+
+1590700165 c:\users\wojciech\documents\c++\scales-generator-testy\tjewish.h
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TGama_dur.h"
+
+1590757697 source:c:\users\wojciech\documents\c++\scales-generator-testy\tpentatonica_dur.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TPentatonica_dur.h"
+
+1590700156 c:\users\wojciech\documents\c++\scales-generator-testy\tpentatonica_dur.h
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TGama_dur.h"
+
+1590757942 source:c:\users\wojciech\documents\c++\scales-generator-testy\tpentatonica_moll.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TPentatonica_moll.h"
+
+1590700756 c:\users\wojciech\documents\c++\scales-generator-testy\tpentatonica_moll.h
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TGama_moll.h"
+
+1590698910 source:c:\users\wojciech\documents\c++\scales-generator-testy\ttonacja.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TTonacja.h"
+
+1590700420 source:c:\users\wojciech\documents\c++\scales-generator-testy\tzmniejszona.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TZmniejszona.h"
+
+1590700171 c:\users\wojciech\documents\c++\scales-generator-testy\tzmniejszona.h
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TGama_dur.h"
+
+1590747735 source:c:\users\wojciech\documents\c++\scales-generator-testy\main.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TTonacja.h"
+	"TGama_dur.h"
+	"TGama_moll.h"
+	"TPentatonica_dur.h"
+	"TPentatonica_moll.h"
+	"TBluesowa.h"
+	"TJewish.h"
+	"TZmniejszona.h"
+	"TAlterowana.h"
+
+1590748672 source:c:\users\wojciech\documents\c++\scales-generator-testy\tgama_dur.cpp
+	<iostream>
+	<unordered_map>
+	<vector>
+	<string>
+	<algorithm>
+	"TGama_dur.h"
+
